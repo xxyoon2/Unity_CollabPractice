@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadSceneAsync(0, LoadSceneMode.Additive);
         SceneManager.LoadSceneAsync(1, LoadSceneMode.Additive);
         SceneManager.LoadSceneAsync(2, LoadSceneMode.Additive);
-        SceneManager.LoadSceneAsync(4, LoadSceneMode.Additive);
+        SceneManager.LoadSceneAsync(3, LoadSceneMode.Additive);
+        SceneManager.LoadSceneAsync(5, LoadSceneMode.Additive);
     }
 }
