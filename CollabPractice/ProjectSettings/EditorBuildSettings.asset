@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UGA.unity
+    guid: 488398eff83833e4598db41782a5e25f
+  - enabled: 1
+    path: Assets/Scenes/phs.unity
+    guid: 0b63f091a09e49141824adf614902c69
+  - enabled: 1
+    path: Assets/Scenes/SampleScene-HeeyoungUI.unity
+    guid: 976b62595b80aab46bf07bc7eee08809
+  - enabled: 1
+    path: Assets/Scenes/SampleScene-UI-phs.unity
+    guid: 9d2a14941b03a9c42a09b6c8b4cefcb9
   m_configObjects: {}
